@@ -8,8 +8,7 @@ At the end, you'll have:
 ✅ Charts
 ✅ Dashboard
 ✅ Analysis report
-✅ GitHub project
-Software You'll Need
+
 
 Install:
 
